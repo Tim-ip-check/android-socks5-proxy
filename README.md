@@ -1,6 +1,6 @@
 # 安卓手机如何通过两层代理使用Sock5 ip
 
-对于做跨境业务的朋友来说，很多业务场景需要在安卓手机上使用海外Sock5 ip，并且很多Sock5 ip仅支持境外环境使用，那么如何解决呢？
+对于做跨境业务的朋友来说，很多业务场景需要在安卓手机上使用海外Sock5 ip，并且很多Sock5 ip仅支持境外环境使用，那么如何解决呢？【如果想看视频教程，请拉到最底部点击视频链接即可查看】
 
 ## 首先下载app“NekoBox”
 
@@ -34,3 +34,6 @@
 <span style="color:red;font-weight:bold;">
 注意事项：1.添加链式代理 2.链式代理添加后勾选节点和IP的顺序
 </span>
+
+## 🎬 视频教程：https://youtube.com/shorts/t1MBircrC4M?si=oGUt23-1y1oOSe8U
+
