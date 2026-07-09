@@ -35,5 +35,5 @@
 注意事项：1.添加链式代理 2.链式代理添加后勾选节点和IP的顺序
 </span>
 
-## 🎬 视频教程：https://youtube.com/shorts/t1MBircrC4M?si=oGUt23-1y1oOSe8U
+## 🎬 视频教程：https://youtube.com/shorts/sC5Lz4y52jM
 
